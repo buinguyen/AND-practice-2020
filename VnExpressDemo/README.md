@@ -1,0 +1,1 @@
+Demo for loading last news of VnExpress page

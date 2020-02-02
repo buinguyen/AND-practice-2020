@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <attr name="bg_color" format="color" />
+    <attr name="text_color" format="color" />
+    <attr name="text_color_bold" format="color" />
+    <attr name="text_color_gray" format="color" />
+    <attr name="toolbar_content_color" format="color" />
+    <attr name="toolbar_bg_color" format="color" />
+
+    <color name="lightBgColor">#FFFFFF</color>
+    <color name="lightColorPrimary">#008577</color>
+    <color name="lightColorSecondary">#00574B</color>
+    <color name="lightColorAccent">#D81B60</color>
+    <color name="lightTextColor">#1B1B1B</color>
+    <color name="lightTextColorBold">#101010</color>
+    <color name="lightTextColorGray">#2A2A2A</color>
+    <color name="lightToolbarColor">#1B1B1B</color>
+    <color name="lightToolbarBgColor">#E5E4E4</color>
+
+    <color name="darkBgColor">#000000</color>
+    <color name="darkColorPrimary">#008577</color>
+    <color name="darkColorSecondary">#00574B</color>
+    <color name="darkColorAccent">#D81B60</color>
+    <color name="darkTextColor">#E5E4E4</color>
+    <color name="darkTextColorBold">#F4F4F4</color>
+    <color name="darkTextColorGray">#CCCCCC</color>
+    <color name="darkToolbarColor">#E5E4E4</color>
+    <color name="darkToolbarBgColor">#1B1B1B</color>
+
+</resources>

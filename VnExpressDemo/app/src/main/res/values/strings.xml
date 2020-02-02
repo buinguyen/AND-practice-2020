@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">VnExpressDemo</string>
+
+    <string name="dark_mode">Dark mode</string>
+    <string name="light_mode">Light mode</string>
+
+    <string name="reload_note">Pull to refresh news</string>
+</resources>

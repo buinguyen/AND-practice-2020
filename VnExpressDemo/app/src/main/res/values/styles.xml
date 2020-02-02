@@ -1,0 +1,33 @@
+<resources>
+
+    <style name="AppTheme" parent="Theme.AppCompat.DayNight">
+        <item name="windowActionBar">false</item>
+        <item name="windowNoTitle">true</item>
+        <item name="android:windowAnimationStyle">@null</item>
+    </style>
+
+    <style name="AppThemeLight" parent="AppTheme">
+        <item name="colorPrimary">@color/lightColorPrimary</item>
+        <item name="colorPrimaryDark">@color/lightColorSecondary</item>
+        <item name="colorAccent">@color/lightColorAccent</item>
+        <item name="bg_color">@color/lightBgColor</item>
+        <item name="text_color">@color/lightTextColor</item>
+        <item name="text_color_bold">@color/lightTextColor</item>
+        <item name="text_color_gray">@color/lightTextColorGray</item>
+        <item name="toolbar_content_color">@color/lightToolbarColor</item>
+        <item name="toolbar_bg_color">@color/lightToolbarBgColor</item>
+    </style>
+
+    <style name="AppThemeDark" parent="AppTheme">
+        <item name="colorPrimary">@color/darkColorPrimary</item>
+        <item name="colorPrimaryDark">@color/darkColorSecondary</item>
+        <item name="colorAccent">@color/darkColorAccent</item>
+        <item name="bg_color">@color/darkBgColor</item>
+        <item name="text_color">@color/darkTextColor</item>
+        <item name="text_color_bold">@color/darkTextColor</item>
+        <item name="text_color_gray">@color/darkTextColorGray</item>
+        <item name="toolbar_content_color">@color/darkToolbarColor</item>
+        <item name="toolbar_bg_color">@color/darkToolbarBgColor</item>
+    </style>
+
+</resources>
